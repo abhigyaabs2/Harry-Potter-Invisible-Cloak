@@ -37,7 +37,7 @@ pip install opencv-python numpy
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/invisible-cloak.git
+git clone [https://github.com/yourusername/invisible-cloak.git](https://github.com/abhigyaabs2/Harry-Potter-Invisible-Cloak)
 cd invisible-cloak
 ```
 
