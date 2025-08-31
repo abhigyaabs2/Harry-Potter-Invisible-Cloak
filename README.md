@@ -43,7 +43,7 @@ cd invisible-cloak
 
 2. Run the script:
 ```bash
-python invisible_cloak.py
+python Harry Potter Cloak.py
 ```
 
 ### Usage
